@@ -1,4 +1,4 @@
-# GangOfFourPatterns
+# Gang Of Four Patterns
 
 Mario Fusco's Functional Java to C#
 
