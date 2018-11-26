@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GangOfFourPatterns", "GangOfFourPatterns\GangOfFourPatterns.csproj", "{D8FDF718-33B9-40A4-9060-D0FB763F7AAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GangOfFourPatterns.Tests", "GangOfFourPatterns.Tests\GangOfFourPatterns.Tests.csproj", "{8F2ECAEF-AFA0-4EFC-8F63-DAD8329072C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8FDF718-33B9-40A4-9060-D0FB763F7AAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8FDF718-33B9-40A4-9060-D0FB763F7AAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8FDF718-33B9-40A4-9060-D0FB763F7AAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8FDF718-33B9-40A4-9060-D0FB763F7AAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F2ECAEF-AFA0-4EFC-8F63-DAD8329072C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F2ECAEF-AFA0-4EFC-8F63-DAD8329072C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F2ECAEF-AFA0-4EFC-8F63-DAD8329072C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F2ECAEF-AFA0-4EFC-8F63-DAD8329072C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

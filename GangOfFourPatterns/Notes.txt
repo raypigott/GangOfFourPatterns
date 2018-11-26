@@ -1,0 +1,18 @@
+﻿/*
+* https://stackoverflow.com/questions/428798/map-and-reduce-in-net/13895253
+* Map = Select | Enumerable.Range(1, 10).Select(x => x + 2);
+* Reduce = Aggregate | Enumerable.Range(1, 10).Aggregate(0, (acc, x) => acc + x);
+* Filter = Where | Enumerable.Range(1, 10).Where(x => x % 2 == 0);
+*/
+
+References
+https://github.com/MostlyAdequate/mostly-adequate-guide
+
+https://www.voxxed.com/blog/2016/04/gang-four-patterns-functional-light-part-1/
+https://www.voxxed.com/2016/05/gang-four-patterns-functional-light-part-2/
+https://www.voxxed.com/2016/05/gang-four-patterns-functional-light-part-3/
+https://www.voxxed.com/2016/05/gang-four-patterns-functional-light-part-4/
+
+http://mikehadlow.blogspot.com/2011/01/monads-in-c-4-linq-loves-monads.html
+
+https://github.com/louthy/language-ext/wiki/Thinking-Functionally
